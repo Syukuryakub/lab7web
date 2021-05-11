@@ -1,4 +1,12 @@
 # lab7web ( PHP DASAR )
+Nama : Syukur yakub
+
+Kelas : TI.19.C1
+
+NIM   : 311910696
+
+Matkul : Pemrograman Web
+
 1. Download terlebih dahulu Xampp nya 
 2. setelah itu jalankan Apache pada Xampp, Uji coba apakah server sudah berkerja dengan baik menggunakan link http://127.0.0.1 atau http://localhost
 
